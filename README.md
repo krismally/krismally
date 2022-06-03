@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development and Entrepeneurship! Accessibility, solid UI/UX design, and developing applications that make an impact are my current priorities.
 - 🌱 I’m currently learning the MERN stack! I'm furthering my experience in General Assembly's Software Engineering Immmersive Bootcamp and at over 80% completion of The Odin Project Foundations Path. I am also participating in the #100DaysofCode challenge - check out my progress here: [@krismally](twitter.com/krismally)
-- ⚒️ My most recent project was a Marvel Character Generator app! I used the superhero API and built the app with HTML5, CSS, JavaScript, jQuery, and AJAX. Check it out here: [Marvel Character Guide](https://github.com/krismally/guide-to-mcu)
+- ⚒️ I'm currently building Logr, a daily symptom log web app for people with chronic illnesses! I built Logr using the MEN (MongoDB, Express, Node) stack, EJS, custom CSS, and Bootstrap. Check it out here: [Logr](https://github.com/krismally/symptom-tracker)
 - 💞️ I’m looking to collaborate on full-stack Web Dev projects with social impact (and/or startups)! 
 - 📫 How to reach me:
    - [Twitter](https://twitter.com/krismally)
