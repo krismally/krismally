@@ -1,8 +1,8 @@
 ### What's up! My name's Kris - I'm a passionate self-taught Software Engineer based in Denver, CO
 
-- 👀 I’m interested in Web Development and Entrepeneurship! Accessibility, solid UI/UX design, and developing applications that make an impact are my current priorities.
-- 🌱 I’m currently learning the PostreSQL and full-stack development using Django! I'm furthering my experience in General Assembly's Software Engineering Immmersive Bootcamp and at over 80% completion of The Odin Project Foundations Path. 
-- ⚒️ I'm currently building my portfolio! I'm using React and TailwindCSS as my tech stack. Check it out here: [Portfolio](https://github.com/krismally/portfolio-react-app)
+- 👀 I’m interested in automated testing and software engineering!
+- 🌱 I’m currently learning Java! 
+- ⚒️ I'm currently building a 2D Game Engine! I'm using Java to create the engine and using it to create a Super Mario Clone. Check it out here: [Mario](https://github.com/krismally/mario)
 - 💞️ I’m looking to collaborate on full-stack Web Dev projects with social impact (and/or startups)! 
 - 📫 How to reach me:
    - [Twitter](https://twitter.com/krismally)
